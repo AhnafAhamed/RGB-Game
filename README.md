@@ -1,6 +1,6 @@
 # RGB-Game
 This a fun RGB game built using Javascript.
-<a href="rgbcolorgames.netlify.app">View live site here</a>
+<a href="https://rgbcolorgames.netlify.app">View live site here</a>
 <h2>Technologies Used</h2>
 <ul>
   <li>HTML5</li>
